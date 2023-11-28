@@ -34,7 +34,7 @@ Para user essa tela, apenas digite o valor dentro da barra seguindo as regras de
 assim tera seu resultado.
 
 Participantes:
-Guilherme Maciel dos Santos
-Lucas Gama de Souza
-Marcos de Sousa Silva
-Caiky de Morais Alves
+Guilherme Maciel dos Santos,
+Lucas Gama de Souza,
+Marcos de Sousa Silva,
+Caiky de Morais Alves,
