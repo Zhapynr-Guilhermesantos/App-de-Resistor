@@ -1,6 +1,7 @@
 # App-de-Resistor
 Projeto em React 
 Tecnologias usadas: Expo
+
 dependencias necessarias: "@expo/vector-icons": "^13.0.0",
     "react-native-paper": "^4.7.2",
     "react-native-screens": "~3.20.0",
